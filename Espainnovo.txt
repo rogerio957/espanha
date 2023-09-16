@@ -1,0 +1,264 @@
+#EXTM3U
+#EXTINF:-1,ES: #Vamos HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136122
+#EXTINF:-1,ES: Toros
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136048
+#EXTINF:-1,ES: El Toro TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207094
+#EXTINF:-1,ES: Gol TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136002
+#EXTINF:-1,➤ National
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/226103
+#EXTINF:-1,ES: La 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136018
+#EXTINF:-1,ES: La 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136019
+#EXTINF:-1,ES: La Sexta
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136024
+#EXTINF:-1,ES: Antena 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136021
+#EXTINF:-1,ES: Nova
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136032
+#EXTINF:-1,ES: Odisea
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136033
+#EXTINF:-1,ES: Neox
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136035
+#EXTINF:-1,➤ Entertainment
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225739
+#EXTINF:-1,ES: TeleCinco
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136023
+#EXTINF:-1,ES: Comedy Central
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136043
+#EXTINF:-1,ES: Decasa TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136044
+#EXTINF:-1,ES: Canal Cocina
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136045
+#EXTINF:-1,ES: Energy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136030
+#EXTINF:-1,ES: Blaze
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136031
+#EXTINF:-1,ES: Cosmo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136046
+#EXTINF:-1,ES: AMC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136052
+#EXTINF:-1,ES: Fox
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136057
+#EXTINF:-1,ES: Fox Life
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136058
+#EXTINF:-1,ES: Caza Y Pesca
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136059
+#EXTINF:-1,ES: Iberalia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136061
+#EXTINF:-1,ES: Canal Extremadura
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207587
+#EXTINF:-1,ES: Dmax
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207595
+#EXTINF:-1,ES: A3 Series
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136062
+#EXTINF:-1,ES: TCM
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/76388
+#EXTINF:-1,ES: Paramount Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/86436
+#EXTINF:-1,ES: Hollywood
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136064
+#EXTINF:-1,ES: SyFy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136080
+#EXTINF:-1,ES: TNT
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136082
+#EXTINF:-1,ES: Xtrm
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136083
+#EXTINF:-1,ES: Cazavision
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207590
+#EXTINF:-1,ES: La Resistencia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207599
+#EXTINF:-1,ES: TEN
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207613
+#EXTINF:-1,ES: Teve Cat
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207615
+#EXTINF:-1,ES: Trece
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207616
+#EXTINF:-1,ES: TVG
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207617
+#EXTINF:-1,ES: Dreamworks
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207565
+#EXTINF:-1,ES: A Punt
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207569
+#EXTINF:-1,ES: Alcarria TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207579
+#EXTINF:-1,ES: Canal Malaga
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207588
+#EXTINF:-1,➤ Kids
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225738
+#EXTINF:-1,ES: Canal Panda
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136096
+#EXTINF:-1,ES: Boing
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136092
+#EXTINF:-1,ES: Baby TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/143564
+#EXTINF:-1,ES: Nickelodeon
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136094
+#EXTINF:-1,ES: Nick Junior
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136095
+#EXTINF:-1,➤ EDU and DOC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225740
+#EXTINF:-1,ES: Discovery Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136037
+#EXTINF:-1,ES: Canal Historia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136038
+#EXTINF:-1,ES: Crimen And Investigacion
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207592
+#EXTINF:-1,ES: Nat Geo Wild
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136040
+#EXTINF:-1,ES: DKiss
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207092
+#EXTINF:-1,➤ Films
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225742
+#EXTINF:-1,ES: Movistar Plus
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136051
+#EXTINF:-1,ES: Movistar Cine Español
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136066
+#EXTINF:-1,ES: Movistar Series
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136073
+#EXTINF:-1,ES: Movistar Drama
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136071
+#EXTINF:-1,ES: Movistar Accion
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136065
+#EXTINF:-1,ES: Movistar Comedia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136068
+#EXTINF:-1,ES: Movistar Estrenos
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136072
+#EXTINF:-1,ES: Movistar Clasicos
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207564
+#EXTINF:-1,ES: Movistar Originales
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241909
+#EXTINF:-1,ES: Movistar Indie
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241910
+#EXTINF:-1,ES: Movistar Suspense
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241911
+#EXTINF:-1,ES: Movistar Documentales
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241912
+#EXTINF:-1,ES: Clan
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136093
+#EXTINF:-1,ES: Divinity
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136091
+#EXTINF:-1,ES: Bom Cine
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136084
+#EXTINF:-1,ES: Sundance
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136087
+#EXTINF:-1,ES: AXN
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136053
+#EXTINF:-1,ES: AXN White
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136054
+#EXTINF:-1,ES: Atreseries
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/15516
+#EXTINF:-1,ES: Canal Dark
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20978
+#EXTINF:-1,ES: Be Mad
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/139690
+#EXTINF:-1,ES: Alquiler 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207541
+#EXTINF:-1,ES: Alquiler 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207542
+#EXTINF:-1,ES: Alquiler 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207543
+#EXTINF:-1,ES: Alquiler 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225316
+#EXTINF:-1,ES: Alquiler 5
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207545
+#EXTINF:-1,ES: Alquiler 6
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207561
+#EXTINF:-1,ES: Alquiler 7
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207612
+#EXTINF:-1,ES: Alquiler 8
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136004
+#EXTINF:-1,ES: Alquiler 9
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136005
+#EXTINF:-1,➤ Regional
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225745
+#EXTINF:-1,ES: Canal 24 Horas
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136025
+#EXTINF:-1,ES: Aragon TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207581
+#EXTINF:-1,ES: Ribera TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207606
+#EXTINF:-1,ES: Calle 13
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136074
+#EXTINF:-1,ES: Costadelsol TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207591
+#EXTINF:-1,ES: Lancelot TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207600
+#EXTINF:-1,ES: Melilla TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207602
+#EXTINF:-1,ES: Solidaria TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207608
+#EXTINF:-1,ES: TeleMadrid
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207609
+#EXTINF:-1,ES: Canal Sur
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/207538
+#EXTINF:-1,ES: Mega
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136026
+#EXTINF:-1,ES: Cuatro
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136022
+#EXTINF:-1,ES: FDF
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/136034
+#EXTINF:-1,ES: Hit Tv
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241914
+#EXTINF:-1,ES: All Flamenco
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241916
+#EXTINF:-1,ES: Telenovelas
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241917
+#EXTINF:-1,ES: Dviaje
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241954
+#EXTINF:-1,ES: Cines Verdi
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241955
+#EXTINF:-1,ES: Frecuencia Novelas
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241956
+#EXTINF:-1,ES: Mundo Toro
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241960
+#EXTINF:-1,ES: Rakuten Tv Top Peliculas
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241961
+#EXTINF:-1,ES: Rakuten Tv Romanticas
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241962
+#EXTINF:-1,ES: Rakuten Tv Thriller
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241963
+#EXTINF:-1,ES: Rakuten Tv Cine Español
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241964
+#EXTINF:-1,ES: Rakuten Tv Accion
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241965
+#EXTINF:-1,ES: NATURE TIME
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241972
+#EXTINF:-1,ES: NEGOCIOS TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241973
+#EXTINF:-1,ES: ENFAMILIA
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241974
+#EXTINF:-1,ES: BUEN VIAJE
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241975
+#EXTINF:-1,ES: VACACIONES
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241976
+#EXTINF:-1,ES: AMC BREAK
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241977
+#EXTINF:-1,ES: CLASSICA
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241980
+#EXTINF:-1,ES: SOL
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241981
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241982
+#EXTINF:-1,ES: AMC CRIME
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241983
+#EXTINF:-1,ES: ALGECIRAS TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241992
+#EXTINF:-1,ES: TELEONUBA
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241993
+#EXTINF:-1,ES: CANAL COSTA
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241994
+#EXTINF:-1,ES: INTERALMERIA
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241995
+#EXTINF:-1,ES: CADENA ELITE
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241999
+#EXTINF:-1,ES: CANAL 25 BARBASTRO TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242001
+#EXTINF:-1,ES: MIRAME TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242003
+#EXTINF:-1,ES: CMM
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242005
+
